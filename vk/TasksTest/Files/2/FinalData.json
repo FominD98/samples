@@ -1,0 +1,26 @@
+[
+  {
+    "login": "pety",
+    "personId": "1",
+    "specialization": "Бизнес аналитик",
+    "date_hired": "2022-01-22",
+    "date_fired": null,
+    "disabled": true
+  },
+  {
+    "login": "ivan",
+    "personId": "2",
+    "specialization": "Программист",
+    "date_hired": "2020-06-22",
+    "date_fired": null,
+    "disabled": true
+  },
+  {
+    "login": "irina",
+    "personId": "4",
+    "specialization": "Старший инженер по тестированию",
+    "date_hired": "2020-06-22",
+    "date_fired": "2022-02-20",
+    "disabled": true
+  }
+]
